@@ -1,0 +1,1 @@
+# 2_single_inheritance_lab_Inheritance
